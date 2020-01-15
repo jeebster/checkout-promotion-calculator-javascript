@@ -1,0 +1,13 @@
+{
+  "name": "solsticestudios-test-gregorymorrison",
+  "version": "1.0.0",
+  "main": "checkout.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
